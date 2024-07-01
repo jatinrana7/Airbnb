@@ -63,7 +63,7 @@ body {
 
 /* cards */
 
-.lisitng-card {
+.listing-card {
     border: none !important;
     margin-bottom: 2rem;
 }
@@ -129,4 +129,10 @@ body {
     padding-left: 0;
     padding-right: 0;
     border-color: white;
+}
+
+/* map */
+#map { 
+    height: 400px;
+    width: 80vh;
 }
